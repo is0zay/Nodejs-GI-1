@@ -1,9 +1,63 @@
 
 [
 	{
-		"Id": "10000",
+		"id": 0,
 		"name": "John Snow",
 		"salary": "50000",
+		"department": "Networking"
+	},
+	{
+		"id": 1,
+		"name": "Jimmy Butler",
+		"salary": "45000",
+		"department": "Cyber Security"
+	},
+	{
+		"id": 2,
+		"name": "Nikola Jokic",
+		"salary": "75000",
+		"department": "Accounting"
+	},
+	{
+		"id": 3,
+		"name": "Jamal Murray",
+		"salary": "90000",
+		"department": "Finance"
+	},
+	{
+		"id": 4,
+		"name": "Kyle Lowry",
+		"salary": "84000",
+		"department": "Communications"
+	},
+	{
+		"id": 5,
+		"name": "Aaron Gordon",
+		"salary": "65000",
+		"department": "Marketing"
+	},
+	{
+		"id": 6,
+		"name": "Bam Adebayo",
+		"salary": "125000",
 		"department": "IT"
+	},
+	{
+		"id": 7,
+		"name": "Brent Brown",
+		"salary": "85000",
+		"department": "Marketing"
+	},
+	{
+		"id": 8,
+		"name": "Duncan Robinson",
+		"salary": "55000",
+		"department": "Communications"
+	},
+	{
+		"id": 9,
+		"name": "Caleb Martin",
+		"salary": "70000",
+		"department": "Cyber Security"
 	}
 ]
